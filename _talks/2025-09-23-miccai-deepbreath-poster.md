@@ -12,3 +12,5 @@ Sollis L, Bunnell A, Wolfgruber TK, Quon B, Kane C, Valdez D, Hernandez BY, Sado
 
 Compares k-means, Gaussian mixture models, and Leiden community detection on transformer-based
 mammogram representations to test for latent risk subtypes beyond Mirai's scalar output.
+
+[Poster (PDF)](/files/miccai-deepbreath-2025-sollis-poster.pdf)

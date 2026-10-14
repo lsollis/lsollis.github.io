@@ -12,3 +12,5 @@ Sollis L, Wolfgruber T, Quon B, Kane C, Valdez D, Hernandez BY, Kerlikowske K, S
 
 1,283 cases and 3,159 matched controls; six clusters derived from deep representations differed
 significantly across nearly all key clinical variables (Bonferroni-adjusted p < 0.008).
+
+[Poster (PDF)](/files/ibdw-2025-sollis-poster.pdf)

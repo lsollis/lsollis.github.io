@@ -6,7 +6,7 @@ permalink: /publication/2026-iwbi-embedding-phenotypes
 excerpt: 'Tested whether unsupervised clustering of Mirai embeddings identifies stable, clinically meaningful phenotypes beyond the scalar risk score, in 26,573 HIPIMR women across 79,317 screening examinations. Clusters were highly stable (ARI > 0.98) but recovered groups corresponding largely to predicted risk rather than distinct clinical phenotypes.'
 date: 2026-08-27
 venue: 'Proceedings of the 18th International Workshop on Breast Imaging (IWBI 2026), Thessaloniki, Greece'
-paperurl: 'https://doi.org/10.5281/zenodo.22122618'
+paperurl: 'https://zenodo.org/records/22122618'
 citation: '<b>Sollis LJ</b>, Shvetsov Y, Quon B, Wolfgruber TK, Bunnell A, Hernandez BY, Shepherd JA. (2026). "Do deep embedding-derived imaging phenotypes reveal breast cancer risk heterogeneity beyond scalar risk stratification?" In: Sechopoulos I, ed. <i>Proceedings of the 18th International Workshop on Breast Imaging (IWBI 2026)</i>, Thessaloniki, Greece. Zenodo. pp. 423-432.'
 ---
 
@@ -20,4 +20,4 @@ A negative result that directly motivates my dissertation work: clustering was h
 (ARI > 0.98), but the recovered groups tracked predicted risk rather than distinct clinical
 phenotypes, which constrains what Mirai's learned representation can be said to encode.
 
-doi:10.5281/zenodo.22122618
+[Proceedings](https://zenodo.org/records/22122618)

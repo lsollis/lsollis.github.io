@@ -7,13 +7,11 @@ author_profile: true
 *ICS Ph.D. portfolio, category 3.*
 
 The ICS requirement asks for two or more items authored by the student and reviewed by doctoral-level
-scholars, and states that two publications satisfy it. I submit six peer-reviewed publications
+scholars, and states that two publications satisfy it. I have six peer-reviewed publications
 (four journal articles and two conference papers), three of them as first author. Two further first-author
 manuscripts have passed initial peer review and are under review in revised form.
 
-Each entry below includes a description of my specific contribution, as the program requires for
-multi-author work. These descriptions are consistent with the published author-contribution statements
-in each paper.
+Each entry below includes a description of my specific contribution, as required for multi-author work. These descriptions are consistent with the published author-contribution statements in each paper.
 
 ## Summary
 
@@ -138,9 +136,9 @@ distinct clinical phenotypes. I report this negative result directly: it constra
 representation can be said to encode, and it is part of what motivates my dissertation work on where
 mammographic models lose information.
 
-[Proceedings](https://doi.org/10.5281/zenodo.22122618)
+[Proceedings](https://zenodo.org/records/22122618)
 
-**My contribution:** I conceived and led the study, constructed the HIPIMR analytic cohort, designed and
+**My contribution:** I co-conceived and led the study, constructed the HIPIMR analytic cohort, designed and
 ran the clustering and stability analyses, and wrote the manuscript.
 
 **Evidence of venue quality:** The International Workshop on Breast Imaging is the principal

@@ -71,7 +71,7 @@ recruitment for the Parkinson's disease web study.
    embedding–derived imaging phenotypes reveal breast cancer risk heterogeneity beyond scalar risk
    stratification? In: Sechopoulos I, ed. *Proceedings of the 18th International Workshop on Breast
    Imaging (IWBI 2026)*; June 28–July 1, 2026; Thessaloniki, Greece. Zenodo; 2026:423–432.
-   doi:[10.5281/zenodo.22122618](https://doi.org/10.5281/zenodo.22122618)
+   Zenodo: [zenodo.org/records/22122618](https://zenodo.org/records/22122618)
 
 3. **Sollis LJ**, Wall DP, Washington PY. Compact subsets of autism screening items predict clinical
    diagnoses with a machine learning analysis of the QCHAT-10. *Scientific Reports*. 2025;15:39091.

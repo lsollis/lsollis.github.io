@@ -11,4 +11,4 @@ location: "Strasbourg, France"
 Oral presentation of the first personalized federated learning evaluation for mammographic cancer
 detection in Native Hawaiian and Pacific Islander populations.
 
-[Slides (PDF)](/files/decaf-2026-sollis-slides.pdf) · [Paper](/publication/2026-decaf-personalized-fl-mammography)
+[Slides (PDF)](/files/decaf-2026-sollis-slides.pdf) · [Poster (PDF)](/files/decaf-2026-sollis-poster.pdf) · [Paper](/publication/2026-decaf-personalized-fl-mammography)

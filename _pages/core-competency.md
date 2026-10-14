@@ -31,8 +31,6 @@ ICS 668 Social Informatics
 MATH 243 Calculus III · MATH 244 Calculus IV · MATH 307 Linear Algebra and Differential Equations ·
 QHS 401 Mathematical Preparation for Quantitative Health Sciences
 
-I deliberately pursued this mathematics sequence during my doctoral studies to strengthen areas not covered by my undergraduate training in exercise science. Rather than work around those gaps, I chose to build the mathematical foundation necessary for machine learning research.
-
 **Research and seminar**
 ICS 699 Directed Reading or Research (eight semesters) · 
 ICS 690 Seminar · ICS 691D Topics in Computer Science

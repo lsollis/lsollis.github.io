@@ -15,3 +15,5 @@ the methodology including the recursive feature elimination and threshold-tuning
 all experiments, and wrote the original draft.
 
 Peer-reviewed journal article. 2025;15:39091. doi:10.1038/s41598-025-26131-9 · PMID: 41203747
+
+[PDF](/files/scientific-reports-2025-sollis.pdf)

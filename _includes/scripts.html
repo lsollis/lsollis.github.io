@@ -1,5 +1,17 @@
 <script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<!-- Open external links and PDFs in a new tab -->
+<script>
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    var external = a.hostname && a.hostname !== location.hostname;
+    var pdf = /\.pdf$/i.test(a.pathname);
+    if ((external || pdf) && !a.hasAttribute('target')) {
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+    }
+  });
+</script>
+
 {% include analytics.html %}
 
 {% include comments-providers/scripts.html %}

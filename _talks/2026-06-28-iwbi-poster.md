@@ -11,7 +11,8 @@ location: "Thessaloniki, Greece"
 Sollis LJ, Shvetsov Y, Quon B, Wolfgruber TK, Bunnell A, Hernandez BY, Shepherd JA.
 
 Accompanied by a peer-reviewed proceedings paper, pp. 423-432.
-[Poster (PDF)](/files/iwbi-2026-sollis-poster.pdf) · [Proceedings](https://zenodo.org/records/22122618)
 
 Tests whether deep representations from mammographic risk models carry risk structure that scalar
 risk scores discard, in a 26,573-woman HIPIMR cohort (79,317 screening examinations, 2010-2020).
+
+[Poster (PDF)](/files/iwbi-2026-sollis-poster.pdf) · [Paper](/publication/2026-iwbi-embedding-phenotypes) · [Proceedings](https://zenodo.org/records/22122618)

@@ -82,6 +82,8 @@ Web of Science, and Scopus.
 Tumpa ZN, Shahriar Zawad MR, **Sollis L**, Parab S, Chen IY, Washington P.
 *npj Digital Medicine*. 2025;8(1):550.
 
+[Published article](https://doi.org/10.1038/s41746-025-01934-2)
+
 **My contribution:** I implemented the web-based assessment platform with two co-authors and co-led
 participant recruitment for the study. The device-type and handedness biases characterized here are
 properties of the collection instrument I helped build, which is what makes this finding
@@ -95,6 +97,8 @@ MEDLINE/PubMed, Web of Science, and Scopus.
 
 Shahriar Zawad MR, Tumpa ZN, **Sollis L**, Parab S, Washington P.
 *JMIR Formative Research*. 2026;10:e81368.
+
+[Published article](https://doi.org/10.2196/81368)
 
 **My contribution:** I contributed to study conceptualization and data curation, and helped develop the
 web-based assessment platform used to collect the mouse-trace data analyzed here. (Published statement

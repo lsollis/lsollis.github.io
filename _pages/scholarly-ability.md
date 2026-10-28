@@ -26,8 +26,10 @@ Each entry below includes a description of my specific contribution, as required
 | 6 | *Scientific Data* | 2026 | Third | IF 7.2 (2025 JCR) |
 | 7 | *JMIR Formative Research* | 2026 | Third | IF 2.4 (5-yr 2.8) |
 
-All items except #1 are indexed in Web of Science and Scopus; the four journal articles among them are
-also in MEDLINE/PubMed. Item 1 was accepted on October 26, 2026 and is in production; its DOI is pending.
+Items 3, 5, and 7 are indexed in PubMed. Item 6 was published online in August 2026 and is not yet listed
+in PubMed. Items 1 and 2 are awaiting final publication: item 1 is in production at *npj Digital Medicine*,
+and item 2 will appear in Springer LNCS vol. 17252 (DOIs pending). Item 4 is published open access on
+Zenodo.
 
 In addition, a first-author scoping review at *PLOS Digital Health* (Q1, reported IF ~8.5) passed
 initial peer review with a major-revision decision and is in its second round of revision.
@@ -47,6 +49,9 @@ The accepted manuscript is not posted here while it is in production; the link b
 preprint of the original submission, posted before peer review; it does not reflect revisions.
 
 [Preprint](https://doi.org/10.21203/rs.3.rs-9069373/v1)
+
+**My contribution:** I conceived and designed the study with John A. Shepherd, carried out data
+collection, and drafted the manuscript.
 
 **Evidence of venue quality:** *npj Digital Medicine* (Springer Nature) has a 2025 impact factor of
 **18.0** (Journal Citation Reports), the leading journal in digital medicine. Indexed in MEDLINE/PubMed,

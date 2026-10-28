@@ -57,7 +57,12 @@ recruitment for the Parkinson's disease web study.
 
 ### First-Author Publications, Peer-Reviewed
 
-1. **Sollis LJ**, Young PM, Bunnell A, Quon B, Hernandez BY, Wolfgruber TK, Shepherd JA.
+1. **Sollis LJ**, Bunnell A, Cho E, Willingham ML Jr, Cruz-Mattos G, Arii A, Lum C, Cassel K,
+   Shepherd JA. Artificial intelligence across the skin cancer screening pathway: an umbrella review.
+   *npj Digital Medicine*. **Accepted 10/2026; in production.** *DOI pending.*
+   Preprint (submitted version): doi:[10.21203/rs.3.rs-9069373/v1](https://doi.org/10.21203/rs.3.rs-9069373/v1)
+
+2. **Sollis LJ**, Young PM, Bunnell A, Quon B, Hernandez BY, Wolfgruber TK, Shepherd JA.
    Personalized federated learning for equitable breast cancer detection in underrepresented Pacific
    Islander populations. *7th MICCAI Workshop on Distributed, Collaborative and Federated Learning
    (DeCaF 2026)*, Strasbourg, France. Springer LNCS vol. 17252 (MICCAI 2026 Satellite Events).
@@ -67,20 +72,15 @@ recruitment for the Parkinson's disease web study.
    Software: [GMIC-FL](https://github.com/shepherd-lab/GMIC-FL), the federated training and
    evaluation system developed for this work.
 
-2. **Sollis LJ**, Shvetsov Y, Quon B, Wolfgruber TK, Bunnell A, Hernandez BY, Shepherd JA. Do deep
-   embedding–derived imaging phenotypes reveal breast cancer risk heterogeneity beyond scalar risk
-   stratification? In: Sechopoulos I, ed. *Proceedings of the 18th International Workshop on Breast
-   Imaging (IWBI 2026)*; June 28–July 1, 2026; Thessaloniki, Greece. Zenodo; 2026:423–432.
-   Zenodo: [zenodo.org/records/22122618](https://zenodo.org/records/22122618)
-
 3. **Sollis LJ**, Wall DP, Washington PY. Compact subsets of autism screening items predict clinical
    diagnoses with a machine learning analysis of the QCHAT-10. *Scientific Reports*. 2025;15:39091.
    doi:[10.1038/s41598-025-26131-9](https://doi.org/10.1038/s41598-025-26131-9) · PMID: 41203747
 
-4. **Sollis LJ**, Bunnell A, Cho E, Willingham ML Jr, Cruz-Mattos G, Arii A, Lum C, Cassel K,
-   Shepherd JA. Artificial intelligence across the skin cancer screening pathway: an umbrella review.
-   *npj Digital Medicine*. **Accepted 10/2026; in production.** *DOI pending.*
-   Preprint (submitted version): doi:[10.21203/rs.3.rs-9069373/v1](https://doi.org/10.21203/rs.3.rs-9069373/v1)
+4. **Sollis LJ**, Shvetsov Y, Quon B, Wolfgruber TK, Bunnell A, Hernandez BY, Shepherd JA. Do deep
+   embedding–derived imaging phenotypes reveal breast cancer risk heterogeneity beyond scalar risk
+   stratification? In: Sechopoulos I, ed. *Proceedings of the 18th International Workshop on Breast
+   Imaging (IWBI 2026)*; June 28–July 1, 2026; Thessaloniki, Greece. Zenodo; 2026:423–432.
+   Zenodo: [zenodo.org/records/22122618](https://zenodo.org/records/22122618)
 
 ### First-Author Manuscript in Revision
 
@@ -91,19 +91,19 @@ recruitment for the Parkinson's disease web study.
 
 ### Co-Author Publications, Peer-Reviewed
 
-6. Tumpa ZN, Shahriar Zawad MR, **Sollis L**, Parab S, Azizian P, Honarmand M, Kargarandehkordi A,
+6. Tumpa ZN, Shahriar Zawad MR, **Sollis L**, Parab S, Chen IY, Washington P. Quantifying device type
+   and handedness biases in a remote Parkinson's disease AI-powered assessment. *npj Digital Medicine*.
+   2025;8(1):550. PMID: 40866555
+
+7. Tumpa ZN, Shahriar Zawad MR, **Sollis L**, Parab S, Azizian P, Honarmand M, Kargarandehkordi A,
    Tarrit K, Abbasi-Asl R, Bove R, Wall DP, Washington P. RobustPDx: a structured web-based
    Parkinson's assessment dataset and benchmark for AI robustness to device type and handedness.
    *Scientific Data*. 2026. Published online 08/2026.
    doi:[10.1038/s41597-026-08118-x](https://doi.org/10.1038/s41597-026-08118-x)
 
-7. Shahriar Zawad MR, Tumpa ZN, **Sollis L**, Parab S, Washington P. Remote assessment of Parkinson
+8. Shahriar Zawad MR, Tumpa ZN, **Sollis L**, Parab S, Washington P. Remote assessment of Parkinson
    disease using deep learning on structured mouse-trace data from suspected cases: machine-learning
    pilot feasibility study. *JMIR Formative Research*. 2026;10:e81368. PMID: 42361348
-
-8. Tumpa ZN, Shahriar Zawad MR, **Sollis L**, Parab S, Chen IY, Washington P. Quantifying device type
-   and handedness biases in a remote Parkinson's disease AI-powered assessment. *npj Digital Medicine*.
-   2025;8(1):550. PMID: 40866555
 
 ---
 
@@ -119,7 +119,7 @@ Islander populations.** 7th MICCAI Workshop on Distributed, Collaborative and Fe
 
 **Do deep embedding–derived imaging phenotypes reveal breast cancer risk heterogeneity beyond scalar
 risk stratification?** 18th International Workshop on Breast Imaging (IWBI 2026), Thessaloniki,
-Greece. June 28 – July 1, 2026. *Accompanying proceedings paper: see publication #2.*
+Greece. June 28 – July 1, 2026. *Accompanying proceedings paper: see publication #4.*
 Sollis LJ, Shvetsov Y, Quon B, Wolfgruber TK, Bunnell A, Hernandez BY, Shepherd JA.
 
 **Can clustering of deep image representations reveal latent breast cancer risk subtypes in a

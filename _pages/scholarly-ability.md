@@ -67,8 +67,7 @@ Adapted GMIC, a multiple-instance classifier for mammographic cancer detection, 
 fine-tuning with NVIDIA FLARE, and evaluated shared-global (FedAvg, FedProx) against personalized
 (FedBN, Ditto) strategies across a three-site federation including a diverse Pacific Island cohort.
 FedAvg, FedProx, and FedBN improved the largest site but left smaller sites at or below pretrained
-performance; Ditto improved the worst-performing site and was the most equitable strategy. This work
-is directly preliminary to my dissertation work on federated adaptation.
+performance; Ditto improved the worst-performing site and was the most equitable strategy.
 
 [PDF](/files/decaf-2026-sollis.pdf) · [Supplement](/files/decaf-2026-sollis-supp.pdf)
 
@@ -112,8 +111,7 @@ Tested whether unsupervised clustering of Mirai embeddings identifies stable, cl
 phenotypes beyond the scalar risk score, across 26,573 HIPIMR women and 79,317 screening examinations.
 Clustering was highly stable (ARI > 0.98), but the recovered groups tracked predicted risk rather than
 distinct clinical phenotypes. I report this negative result directly: it constrains what Mirai's learned
-representation can be said to encode, and it is part of what motivates my dissertation work on where
-mammographic models lose information.
+representation can be said to encode.
 
 [Proceedings](https://zenodo.org/records/22122618)
 
@@ -136,8 +134,7 @@ Tumpa ZN, Shahriar Zawad MR, **Sollis L**, Parab S, Chen IY, Washington P.
 
 **My contribution:** I implemented the web-based assessment platform with two co-authors and co-led
 participant recruitment for the study. The device-type and handedness biases characterized here are
-properties of the collection instrument I helped build, which is what makes this finding
-methodologically relevant to my dissertation's treatment of acquisition shift.
+properties of the collection instrument I helped build.
 
 **Evidence of venue quality:** *npj Digital Medicine* (Springer Nature) has a 2025 impact factor of
 **18.0** (Journal Citation Reports), making it the leading journal in digital medicine. Indexed in
@@ -149,8 +146,7 @@ Tumpa ZN, Shahriar Zawad MR, **Sollis L**, Parab S, Azizian P, Honarmand M, Karg
 Tarrit K, Abbasi-Asl R, Bove R, Wall DP, Washington P. *Scientific Data*. 2026. Published online August 18, 2026.
 
 A public dataset and robustness benchmark for device-type and handedness effects in remote
-Parkinson's assessment: an acquisition-shift problem structurally parallel to the scanner and
-protocol heterogeneity my dissertation studies in mammography.
+Parkinson's assessment.
 
 [DOI](https://doi.org/10.1038/s41597-026-08118-x)
 

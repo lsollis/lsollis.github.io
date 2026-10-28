@@ -16,7 +16,7 @@ Thessaloniki, 28 June - 1 July 2026.
 **My contribution:** Conceived and led the study, designed and ran the clustering and stability
 analyses, constructed the HIPIMR analytic cohort, and wrote the manuscript.
 
-A negative result that directly motivates my dissertation work: clustering was highly stable
+A negative result: clustering was highly stable
 (ARI > 0.98), but the recovered groups tracked predicted risk rather than distinct clinical
 phenotypes, which constrains what Mirai's learned representation can be said to encode.
 

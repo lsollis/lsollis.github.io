@@ -3,7 +3,7 @@ title: "RobustPDx: a structured web-based Parkinson's assessment dataset and ben
 collection: publications
 category: manuscripts
 permalink: /publication/2026-scientific-data-robustpdx
-excerpt: 'A public dataset and robustness benchmark for device-type and handedness effects in remote Parkinson assessment - an acquisition-shift problem structurally parallel to the scanner and protocol heterogeneity studied in my dissertation.'
+excerpt: 'A public dataset and robustness benchmark for device-type and handedness effects in remote Parkinson assessment.'
 date: 2026-08-18
 venue: 'Scientific Data'
 paperurl: 'https://doi.org/10.1038/s41597-026-08118-x'

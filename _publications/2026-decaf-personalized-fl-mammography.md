@@ -10,8 +10,7 @@ paperurl: 'https://papers.miccai.org/miccai-2026-sat/DeCaF_006.html'
 citation: '<b>Sollis LJ</b>, Young PM, Bunnell A, Quon B, Hernandez BY, Wolfgruber TK, Shepherd JA. (2026). "Personalized federated learning for equitable breast cancer detection in underrepresented Pacific Islander populations." <i>7th MICCAI Workshop on Distributed, Collaborative and Federated Learning (DeCaF)</i>, Strasbourg, France.'
 ---
 
-**First author. Oral presentation.** Directly preliminary to my dissertation work on federated
-adaptation.
+**First author. Oral presentation.**
 
 **My contribution:** I conceived and led this study, adapted GMIC for federated fine-tuning under NVIDIA
 FLARE, built the three-site federation and its preprocessing pipeline, implemented and ran all

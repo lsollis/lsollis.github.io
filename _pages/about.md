@@ -29,9 +29,8 @@ Also: [Publications](/publications/) · [Talks and posters](/talks/) · [CV](/cv
 
 ## Current work
 
-**Dissertation (in preparation):** on model performance and adaptation in mammographic screening for
-underserved and underrepresented populations. Co-advised by John A. Shepherd and Huaijin Chen. Scope
-is being finalized; see my [Statement of Purpose](/statement-of-purpose/) for my research interests and
+**Dissertation (in preparation):** co-advised by John A. Shepherd and Huaijin Chen. Scope is being
+finalized; see my [Statement of Purpose](/statement-of-purpose/) for my research interests and
 goals.
 
 **[GMIC-FL](https://github.com/shepherd-lab/GMIC-FL):** federated training and evaluation system for

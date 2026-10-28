@@ -7,12 +7,13 @@ excerpt: 'Synthesizes 46 systematic reviews appraised with ROBIS and AMSTAR 2. O
 date: 2026-10-26
 venue: 'npj Digital Medicine (accepted)'
 paperurl: 'https://doi.org/10.21203/rs.3.rs-9069373/v1'
-citation: '<b>Sollis LJ</b>, Bunnell A, Cho E, Willingham ML Jr, Cruz-Mattos G, Arii A, Lum C, Cassel K, Shepherd JA. (2026). "Artificial intelligence across the skin cancer screening pathway: an umbrella review." <i>npj Digital Medicine</i>. Accepted; DOI pending. Link is to the preprint of the submitted version.'
+citation: '<b>Sollis LJ</b>, Bunnell A, Cho E, Willingham ML Jr, Cruz-Mattos G, Arii A, Lum C, Cassel K, Shepherd JA. (2026). "Artificial intelligence across the skin cancer screening pathway: an umbrella review." <i>npj Digital Medicine</i>. Accepted; DOI pending. Link is to the preprint of the original submission, before peer review.'
 ---
 
 **First author. Accepted October 26, 2026; in production. DOI pending.**
 
 The accepted manuscript is not posted here while it is in production. The link below is the public
-preprint of the submitted version; this page will be updated with the DOI on publication.
+preprint of the original submission, posted before peer review; it does not reflect revisions.
+This page will be updated with the DOI on publication.
 
 [Preprint](https://doi.org/10.21203/rs.3.rs-9069373/v1)

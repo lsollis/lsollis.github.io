@@ -44,7 +44,7 @@ came from majority light-skinned populations, that ROBIS flagged high risk of bi
 and that no review applied an implementation science framework.
 
 The accepted manuscript is not posted here while it is in production; the link below is the public
-preprint of the submitted version.
+preprint of the original submission, posted before peer review; it does not reflect revisions.
 
 [Preprint](https://doi.org/10.21203/rs.3.rs-9069373/v1)
 

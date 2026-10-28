@@ -34,7 +34,7 @@ Co-advisors: John A. Shepherd, Ph.D. and Huaijin Chen, Ph.D.
 ## Research Positions
 
 **Graduate Research Assistant**, University of Hawaiʻi Cancer Center, Department of Epidemiology, and
-Department of Information and Computer Sciences, University of Hawaiʻi at Mānoa
+Department of Information and Computer Sciences, University of Hawaiʻi at Mānoa<br>
 *August 2024 – present* · PI: John A. Shepherd, Ph.D.
 
 Breast cancer risk modeling and federated learning in the Hawaiʻi and Pacific Islands Mammography
@@ -42,7 +42,7 @@ Registry (HIPIMR). Developed the first personalized federated learning evaluatio
 cancer detection in Native Hawaiian and Pacific Islander populations. Work on deep embedding–derived
 imaging phenotypes, mammographic risk heterogeneity, and AI equity in skin cancer screening.
 
-**Graduate Research Assistant**, Department of Information and Computer Sciences, University of Hawaiʻi at Mānoa
+**Graduate Research Assistant**, Department of Information and Computer Sciences, University of Hawaiʻi at Mānoa<br>
 *January – August 2024* · PI: Peter Washington, Ph.D.
 
 Machine learning for digital health screening. First author on a scoping review of machine learning for
@@ -60,7 +60,7 @@ recruitment for the Parkinson's disease web study.
 1. **Sollis LJ**, Bunnell A, Cho E, Willingham ML Jr, Cruz-Mattos G, Arii A, Lum C, Cassel K,
    Shepherd JA. Artificial intelligence across the skin cancer screening pathway: an umbrella review.
    *npj Digital Medicine*. **Accepted 10/2026; in production.** *DOI pending.*
-   Preprint (submitted version): doi:[10.21203/rs.3.rs-9069373/v1](https://doi.org/10.21203/rs.3.rs-9069373/v1)
+   Preprint (original submission, before peer review): doi:[10.21203/rs.3.rs-9069373/v1](https://doi.org/10.21203/rs.3.rs-9069373/v1)
 
 2. **Sollis LJ**, Young PM, Bunnell A, Quon B, Hernandez BY, Wolfgruber TK, Shepherd JA.
    Personalized federated learning for equitable breast cancer detection in underrepresented Pacific
@@ -140,20 +140,24 @@ Eight years of technical leadership in military and university information techn
 beginning doctoral research, including team management, infrastructure operations, and data
 engineering.
 
-**Data Analyst and Assistant Database Manager**, University of Hawaiʻi at Mānoa. *July 2023 – August 2024*
+**Data Analyst and Assistant Database Manager**, University of Hawaiʻi at Mānoa.<br>
+*July 2023 – August 2024*<br>
 Energy data infrastructure for UH campus buildings: PostgreSQL schema normalization and key
 relationships, standardized ingest procedures, SQL analytics for Energy Use Intensity metrics, and
 Tableau reporting used by energy management leadership.
 
-**Information Technology Manager**, U.S. Army, Schofield Barracks, HI. *2019 – 2022*
+**Information Technology Manager**, U.S. Army, Schofield Barracks, HI.<br>
+*2019 – 2022*<br>
 Led a tier-1 helpdesk supporting a 600-person organization; account and equipment lifecycle
 management; oversaw maintenance and operation of networking and radio equipment valued over $10M.
 
-**Helpdesk Manager**, U.S. Army, Bagram, Afghanistan. *May – November 2017*
+**Helpdesk Manager**, U.S. Army, Bagram, Afghanistan.<br>
+*May – November 2017*<br>
 Resolved 200+ local tickets and coordinated 600+ escalated tickets in a deployed environment;
 migrated a finance unit from on-site to virtualized remote servers; upgraded 100+ workstations.
 
-**Networking Team Manager**, U.S. Army, El Paso, TX. *2016 – 2018*
+**Networking Team Manager**, U.S. Army, El Paso, TX.<br>
+*2016 – 2018*<br>
 Planned and supervised operation of a network node and three radio nodes providing tactical internet
 and voice communications for a 500-person unit; directed technical training for a 30-person team.
 

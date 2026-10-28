@@ -16,13 +16,13 @@ Each entry below includes a description of my specific contribution, as required
 
 ## Summary
 
-| # | Venue | Year | Position | Venue quality |
+| # | Venue | Year | Author Position | Venue quality |
 |---|---|---|---|---|
 | 1 | DeCaF, MICCAI 2026 | 2026 | **First, oral** | 58% accept; **top 29% selected for oral** |
 | 2 | IWBI 2026 proceedings | 2026 | **First** | 18th edition; peer-reviewed proceedings |
 | 3 | *Scientific Reports* | 2025 | **First** | IF 4.9 (2025 JCR) |
 | 4 | *npj Digital Medicine* | 2026 (accepted) | **First** | **IF 18.0 (2025 JCR)** |
-| 5 | *Scientific Data* | 2026 (in press) | Third | IF 7.2 (2025 JCR) |
+| 5 | *Scientific Data* | 2026 | Third | IF 7.2 (2025 JCR) |
 | 6 | *JMIR Formative Research* | 2026 | Third | IF 2.4 (5-yr 2.8) |
 | 7 | *npj Digital Medicine* | 2025 | Third | **IF 18.0 (2025 JCR)** |
 
@@ -125,7 +125,7 @@ Web of Science, and Scopus.
 ### 5. RobustPDx: a structured web-based Parkinson's assessment dataset and benchmark for AI robustness to device type and handedness
 
 Tumpa ZN, Shahriar Zawad MR, **Sollis L**, Parab S, Azizian P, Honarmand M, Kargarandehkordi A,
-Tarrit K, Abbasi-Asl R, Bove R, Wall DP, Washington P. *Scientific Data*. 2026. **In press.**
+Tarrit K, Abbasi-Asl R, Bove R, Wall DP, Washington P. *Scientific Data*. 2026. Published online August 18, 2026.
 
 A public dataset and robustness benchmark for device-type and handedness effects in remote
 Parkinson's assessment: an acquisition-shift problem structurally parallel to the scanner and

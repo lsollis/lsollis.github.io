@@ -94,7 +94,7 @@ recruitment for the Parkinson's disease web study.
 6. Tumpa ZN, Shahriar Zawad MR, **Sollis L**, Parab S, Azizian P, Honarmand M, Kargarandehkordi A,
    Tarrit K, Abbasi-Asl R, Bove R, Wall DP, Washington P. RobustPDx: a structured web-based
    Parkinson's assessment dataset and benchmark for AI robustness to device type and handedness.
-   *Scientific Data*. 2026. *In press.*
+   *Scientific Data*. 2026. Published online 08/2026.
    doi:[10.1038/s41597-026-08118-x](https://doi.org/10.1038/s41597-026-08118-x)
 
 7. Shahriar Zawad MR, Tumpa ZN, **Sollis L**, Parab S, Washington P. Remote assessment of Parkinson

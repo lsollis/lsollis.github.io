@@ -19,20 +19,20 @@ Each entry below includes a description of my specific contribution, as required
 | # | Venue | Year | Position | Venue quality |
 |---|---|---|---|---|
 | 1 | DeCaF, MICCAI 2026 | 2026 | **First, oral** | 58% accept; **top 29% selected for oral** |
-| 2 | *Scientific Reports* | 2025 | **First** | IF 4.9 (2025 JCR) |
-| 3 | *npj Digital Medicine* | 2025 | Third | **IF 18.0 (2025 JCR)** |
-| 4 | *JMIR Formative Research* | 2026 | Third | IF 2.4 (5-yr 2.8) |
+| 2 | IWBI 2026 proceedings | 2026 | **First** | 18th edition; peer-reviewed proceedings |
+| 3 | *Scientific Reports* | 2025 | **First** | IF 4.9 (2025 JCR) |
+| 4 | *npj Digital Medicine* | 2026 (accepted) | **First** | **IF 18.0 (2025 JCR)** |
 | 5 | *Scientific Data* | 2026 (in press) | Third | IF 7.2 (2025 JCR) |
-| 6 | IWBI 2026 proceedings | 2026 | **First** | 18th edition; peer-reviewed proceedings |
-| 7 | *npj Digital Medicine* | 2026 (accepted) | **First** | **IF 18.0 (2025 JCR)** |
+| 6 | *JMIR Formative Research* | 2026 | Third | IF 2.4 (5-yr 2.8) |
+| 7 | *npj Digital Medicine* | 2025 | Third | **IF 18.0 (2025 JCR)** |
 
-Items 1-6 are indexed in Web of Science and Scopus; the four journal articles among them are also in
-MEDLINE/PubMed. Item 7 was accepted on October 26, 2026 and is in production; its DOI is pending.
+All items except #4 are indexed in Web of Science and Scopus; the four journal articles among them are
+also in MEDLINE/PubMed. Item 4 was accepted on October 26, 2026 and is in production; its DOI is pending.
 
 In addition, a first-author scoping review at *PLOS Digital Health* (Q1, reported IF ~8.5) passed
 initial peer review with a major-revision decision and is in its second round of revision.
 
-## Peer-reviewed publications
+## First-author publications, peer-reviewed
 
 ### 1. Personalized federated learning for equitable breast cancer detection in underrepresented Pacific Islander populations
 
@@ -59,77 +59,7 @@ accepted papers, 7 were selected for oral presentation, placing this paper in th
 submissions. DeCaF is the established venue for distributed and federated learning in medical imaging,
 now in its 7th edition as a MICCAI satellite event, and proceedings are published by Springer.
 
-### 2. Compact subsets of autism screening items predict clinical diagnoses with a machine learning analysis of the QCHAT-10
-
-**Sollis LJ**, Wall DP, Washington PY. *Scientific Reports*. 2025;15:39091. **First author.**
-
-Trained models on New Zealand and Saudi Arabian QCHAT-10 cohorts and tested transfer to clinically
-diagnosed Polish cases. Recursive feature elimination converged on four-item models sharing three
-features (eye contact, gaze following, and pretend play), reaching AUROC 85-87% on clinical
-diagnoses, demonstrating partial transfer from assessment-score prediction to clinical diagnosis.
-
-[Published article](https://doi.org/10.1038/s41598-025-26131-9) · [PDF](/files/scientific-reports-2025-sollis.pdf)
-
-**My contribution:** I conceived the study, curated the three national datasets, designed the
-methodology including the recursive feature elimination and threshold-tuning approach, carried out all
-experiments, and wrote the original draft. (Published statement credits me with conceptualization, data
-curation, methodology, carrying out experiments, and writing the original draft.)
-
-**Evidence of venue quality:** *Scientific Reports* (Nature Portfolio) has a 2025 impact factor of 4.9
-(Journal Citation Reports) and is among the most-cited journals in the world. Indexed in MEDLINE/PubMed,
-Web of Science, and Scopus.
-
-### 3. Quantifying device type and handedness biases in a remote Parkinson's disease AI-powered assessment
-
-Tumpa ZN, Shahriar Zawad MR, **Sollis L**, Parab S, Chen IY, Washington P.
-*npj Digital Medicine*. 2025;8(1):550.
-
-[Published article](https://doi.org/10.1038/s41746-025-01934-2)
-
-**My contribution:** I implemented the web-based assessment platform with two co-authors and co-led
-participant recruitment for the study. The device-type and handedness biases characterized here are
-properties of the collection instrument I helped build, which is what makes this finding
-methodologically relevant to my dissertation's treatment of acquisition shift.
-
-**Evidence of venue quality:** *npj Digital Medicine* (Springer Nature) has a 2025 impact factor of
-**18.0** (Journal Citation Reports), making it the leading journal in digital medicine. Indexed in
-MEDLINE/PubMed, Web of Science, and Scopus.
-
-### 4. Remote assessment of Parkinson disease using deep learning on structured mouse-trace data from suspected cases
-
-Shahriar Zawad MR, Tumpa ZN, **Sollis L**, Parab S, Washington P.
-*JMIR Formative Research*. 2026;10:e81368.
-
-[Published article](https://doi.org/10.2196/81368)
-
-**My contribution:** I contributed to study conceptualization and data curation, and helped develop the
-web-based assessment platform used to collect the mouse-trace data analyzed here. (Published statement
-lists me under Conceptualization, Data curation, and Web development.)
-
-**Evidence of venue quality:** *JMIR Formative Research* has a 2025 impact factor of 2.4 (5-year 2.8).
-Indexed in MEDLINE/PubMed, PubMed Central, Web of Science, and Scopus.
-
-### 5. RobustPDx: a structured web-based Parkinson's assessment dataset and benchmark for AI robustness to device type and handedness
-
-Tumpa ZN, Shahriar Zawad MR, **Sollis L**, Parab S, Azizian P, Honarmand M, Kargarandehkordi A,
-Tarrit K, Abbasi-Asl R, Bove R, Wall DP, Washington P. *Scientific Data*. 2026. **In press.**
-
-A public dataset and robustness benchmark for device-type and handedness effects in remote
-Parkinson's assessment: an acquisition-shift problem structurally parallel to the scanner and
-protocol heterogeneity my dissertation studies in mammography.
-
-[DOI](https://doi.org/10.1038/s41597-026-08118-x)
-
-**My contribution:** I implemented the web-based assessment platform with two co-authors and co-led
-participant recruitment for the study that produced the released dataset. I reviewed and approved the
-final manuscript. (Published statement: "M.R.S.Z., L.S., and S.P. implemented the assessment website.
-... L.S. ... led recruitment activities.")
-
-**Evidence of venue quality:** *Scientific Data* (Nature Portfolio) has a 2025 impact factor of 7.2
-(Journal Citation Reports). It publishes peer-reviewed data descriptors held to explicit reusability and
-documentation standards. Indexed in MEDLINE/PubMed, Web of Science, and Scopus.
-
-### 6. Do deep embedding-derived imaging phenotypes reveal breast cancer risk heterogeneity beyond scalar risk stratification?
+### 2. Do deep embedding-derived imaging phenotypes reveal breast cancer risk heterogeneity beyond scalar risk stratification?
 
 **Sollis LJ**, Shvetsov Y, Quon B, Wolfgruber TK, Bunnell A, Hernandez BY, Shepherd JA.
 In: Sechopoulos I, ed. *Proceedings of the 18th International Workshop on Breast Imaging (IWBI 2026)*,
@@ -152,7 +82,27 @@ international meeting dedicated to breast imaging, now in its 18th edition, with
 proceedings. The 2026 scientific program comprised 36 proffered oral presentations and 80 posters.
 IWBI does not publish an acceptance rate.
 
-### 7. Artificial intelligence across the skin cancer screening pathway: an umbrella review
+### 3. Compact subsets of autism screening items predict clinical diagnoses with a machine learning analysis of the QCHAT-10
+
+**Sollis LJ**, Wall DP, Washington PY. *Scientific Reports*. 2025;15:39091. **First author.**
+
+Trained models on New Zealand and Saudi Arabian QCHAT-10 cohorts and tested transfer to clinically
+diagnosed Polish cases. Recursive feature elimination converged on four-item models sharing three
+features (eye contact, gaze following, and pretend play), reaching AUROC 85-87% on clinical
+diagnoses, demonstrating partial transfer from assessment-score prediction to clinical diagnosis.
+
+[Published article](https://doi.org/10.1038/s41598-025-26131-9) · [PDF](/files/scientific-reports-2025-sollis.pdf)
+
+**My contribution:** I conceived the study, curated the three national datasets, designed the
+methodology including the recursive feature elimination and threshold-tuning approach, carried out all
+experiments, and wrote the original draft. (Published statement credits me with conceptualization, data
+curation, methodology, carrying out experiments, and writing the original draft.)
+
+**Evidence of venue quality:** *Scientific Reports* (Nature Portfolio) has a 2025 impact factor of 4.9
+(Journal Citation Reports) and is among the most-cited journals in the world. Indexed in MEDLINE/PubMed,
+Web of Science, and Scopus.
+
+### 4. Artificial intelligence across the skin cancer screening pathway: an umbrella review
 
 **Sollis LJ**, Bunnell A, Cho E, Willingham ML Jr, Cruz-Mattos G, Arii A, Lum C, Cassel K, Shepherd JA.
 *npj Digital Medicine*. **Accepted October 26, 2026; in production. DOI pending.** **First author.**
@@ -169,6 +119,58 @@ preprint of the submitted version.
 **Evidence of venue quality:** *npj Digital Medicine* (Springer Nature) has a 2025 impact factor of
 **18.0** (Journal Citation Reports), the leading journal in digital medicine. Indexed in MEDLINE/PubMed,
 Web of Science, and Scopus.
+
+## Co-author publications, peer-reviewed
+
+### 5. RobustPDx: a structured web-based Parkinson's assessment dataset and benchmark for AI robustness to device type and handedness
+
+Tumpa ZN, Shahriar Zawad MR, **Sollis L**, Parab S, Azizian P, Honarmand M, Kargarandehkordi A,
+Tarrit K, Abbasi-Asl R, Bove R, Wall DP, Washington P. *Scientific Data*. 2026. **In press.**
+
+A public dataset and robustness benchmark for device-type and handedness effects in remote
+Parkinson's assessment: an acquisition-shift problem structurally parallel to the scanner and
+protocol heterogeneity my dissertation studies in mammography.
+
+[DOI](https://doi.org/10.1038/s41597-026-08118-x)
+
+**My contribution:** I implemented the web-based assessment platform with two co-authors and co-led
+participant recruitment for the study that produced the released dataset. I reviewed and approved the
+final manuscript. (Published statement: "M.R.S.Z., L.S., and S.P. implemented the assessment website.
+... L.S. ... led recruitment activities.")
+
+**Evidence of venue quality:** *Scientific Data* (Nature Portfolio) has a 2025 impact factor of 7.2
+(Journal Citation Reports). It publishes peer-reviewed data descriptors held to explicit reusability and
+documentation standards. Indexed in MEDLINE/PubMed, Web of Science, and Scopus.
+
+### 6. Remote assessment of Parkinson disease using deep learning on structured mouse-trace data from suspected cases
+
+Shahriar Zawad MR, Tumpa ZN, **Sollis L**, Parab S, Washington P.
+*JMIR Formative Research*. 2026;10:e81368.
+
+[Published article](https://doi.org/10.2196/81368)
+
+**My contribution:** I contributed to study conceptualization and data curation, and helped develop the
+web-based assessment platform used to collect the mouse-trace data analyzed here. (Published statement
+lists me under Conceptualization, Data curation, and Web development.)
+
+**Evidence of venue quality:** *JMIR Formative Research* has a 2025 impact factor of 2.4 (5-year 2.8).
+Indexed in MEDLINE/PubMed, PubMed Central, Web of Science, and Scopus.
+
+### 7. Quantifying device type and handedness biases in a remote Parkinson's disease AI-powered assessment
+
+Tumpa ZN, Shahriar Zawad MR, **Sollis L**, Parab S, Chen IY, Washington P.
+*npj Digital Medicine*. 2025;8(1):550.
+
+[Published article](https://doi.org/10.1038/s41746-025-01934-2)
+
+**My contribution:** I implemented the web-based assessment platform with two co-authors and co-led
+participant recruitment for the study. The device-type and handedness biases characterized here are
+properties of the collection instrument I helped build, which is what makes this finding
+methodologically relevant to my dissertation's treatment of acquisition shift.
+
+**Evidence of venue quality:** *npj Digital Medicine* (Springer Nature) has a 2025 impact factor of
+**18.0** (Journal Citation Reports), making it the leading journal in digital medicine. Indexed in
+MEDLINE/PubMed, Web of Science, and Scopus.
 
 ## Manuscript in revision
 

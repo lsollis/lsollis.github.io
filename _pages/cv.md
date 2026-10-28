@@ -77,19 +77,17 @@ recruitment for the Parkinson's disease web study.
    diagnoses with a machine learning analysis of the QCHAT-10. *Scientific Reports*. 2025;15:39091.
    doi:[10.1038/s41598-025-26131-9](https://doi.org/10.1038/s41598-025-26131-9) · PMID: 41203747
 
-### First-Author Manuscripts Under Review
-
-Both passed initial peer review with a major-revision decision; revised manuscripts are submitted and
-under review.
-
 4. **Sollis LJ**, Bunnell A, Cho E, Willingham ML Jr, Cruz-Mattos G, Arii A, Lum C, Cassel K,
    Shepherd JA. Artificial intelligence across the skin cancer screening pathway: an umbrella review.
-   *npj Digital Medicine*: **major revision submitted, under review.**
-   Preprint: doi:[10.21203/rs.3.rs-9069373/v1](https://doi.org/10.21203/rs.3.rs-9069373/v1)
+   *npj Digital Medicine*. **Accepted 10/2026; in production.** *DOI pending.*
+   Preprint (submitted version): doi:[10.21203/rs.3.rs-9069373/v1](https://doi.org/10.21203/rs.3.rs-9069373/v1)
+
+### First-Author Manuscript in Revision
 
 5. **Sollis LJ**, Jaiswal A, Lim K, Raza F, Kim D, Banerjee A, Zhou AM, Brown E, Bove R,
    Abbasi-Asl R, Washington P. Machine learning for Parkinson's disease diagnosis using digital
-   technologies: a scoping review. *PLOS Digital Health*: **major revision submitted, under review.**
+   technologies: a scoping review. *PLOS Digital Health*: **second round of revision in progress.**
+   Passed initial peer review with a major-revision decision.
 
 ### Co-Author Publications, Peer-Reviewed
 

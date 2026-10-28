@@ -7,9 +7,10 @@ author_profile: true
 *ICS Ph.D. portfolio, category 3.*
 
 The ICS requirement asks for two or more items authored by the student and reviewed by doctoral-level
-scholars, and states that two publications satisfy it. I have six peer-reviewed publications
-(four journal articles and two conference papers), three of them as first author. Two further first-author
-manuscripts have passed initial peer review and are under review in revised form.
+scholars, and states that two publications satisfy it. I have seven peer-reviewed publications
+(five journal articles and two conference papers), four of them as first author; one of these, at
+*npj Digital Medicine*, was accepted in October 2026 and is in production. A further first-author
+manuscript is in its second round of revision.
 
 Each entry below includes a description of my specific contribution, as required for multi-author work. These descriptions are consistent with the published author-contribution statements in each paper.
 
@@ -23,12 +24,13 @@ Each entry below includes a description of my specific contribution, as required
 | 4 | *JMIR Formative Research* | 2026 | Third | IF 2.4 (5-yr 2.8) |
 | 5 | *Scientific Data* | 2026 (in press) | Third | IF 7.2 (2025 JCR) |
 | 6 | IWBI 2026 proceedings | 2026 | **First** | 18th edition; peer-reviewed proceedings |
+| 7 | *npj Digital Medicine* | 2026 (accepted) | **First** | **IF 18.0 (2025 JCR)** |
 
-All six are indexed in Web of Science and Scopus; the four journal articles are also in MEDLINE/PubMed.
+Items 1-6 are indexed in Web of Science and Scopus; the four journal articles among them are also in
+MEDLINE/PubMed. Item 7 was accepted on October 26, 2026 and is in production; its DOI is pending.
 
-In addition, two first-author manuscripts have **passed initial peer review with a major-revision
-decision** and are under review in revised form: at *npj Digital Medicine* (IF 18.0) and *PLOS Digital
-Health* (Q1, reported IF ~8.5).
+In addition, a first-author scoping review at *PLOS Digital Health* (Q1, reported IF ~8.5) passed
+initial peer review with a major-revision decision and is in its second round of revision.
 
 ## Peer-reviewed publications
 
@@ -150,20 +152,17 @@ international meeting dedicated to breast imaging, now in its 18th edition, with
 proceedings. The 2026 scientific program comprised 36 proffered oral presentations and 80 posters.
 IWBI does not publish an acceptance rate.
 
-## Manuscripts at revision stage
-
-Two first-author manuscripts. **Both have passed initial peer review with a major-revision decision, and
-revised manuscripts are submitted and under review.**
-
-### Artificial intelligence across the skin cancer screening pathway: an umbrella review
+### 7. Artificial intelligence across the skin cancer screening pathway: an umbrella review
 
 **Sollis LJ**, Bunnell A, Cho E, Willingham ML Jr, Cruz-Mattos G, Arii A, Lum C, Cassel K, Shepherd JA.
-*npj Digital Medicine* (2025 impact factor 18.0): **major revision submitted, under review.**
-**First author.**
+*npj Digital Medicine*. **Accepted October 26, 2026; in production. DOI pending.** **First author.**
 
 Synthesizes 46 systematic reviews appraised with ROBIS and AMSTAR 2. Finds that over 70% of datasets
 came from majority light-skinned populations, that ROBIS flagged high risk of bias in 31 of 46 reviews,
 and that no review applied an implementation science framework.
+
+The accepted manuscript is not posted here while it is in production; the link below is the public
+preprint of the submitted version.
 
 [Preprint](https://doi.org/10.21203/rs.3.rs-9069373/v1)
 
@@ -171,10 +170,13 @@ and that no review applied an implementation science framework.
 **18.0** (Journal Citation Reports), the leading journal in digital medicine. Indexed in MEDLINE/PubMed,
 Web of Science, and Scopus.
 
+## Manuscript in revision
+
 ### Machine learning for Parkinson's disease diagnosis using digital technologies: a scoping review
 
 **Sollis LJ**, Jaiswal A, Lim K, Raza F, Kim D, Banerjee A, Zhou AM, Brown E, Bove R, Abbasi-Asl R,
-Washington P. *PLOS Digital Health*: **major revision submitted, under review.** **First author.**
+Washington P. *PLOS Digital Health*: **passed initial peer review with a major-revision decision; second
+round of revision in progress (since October 27, 2026).** **First author.**
 
 PRISMA-ScR scoping review of machine learning for Parkinson disease diagnosis and monitoring using
 consumer digital technologies in real-world settings.

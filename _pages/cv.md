@@ -6,11 +6,13 @@ redirect_from:
   - /resume
 ---
 
+[Download as PDF](/files/sollis-cv.pdf)
+
 {% comment %}
 MAINTENANCE NOTE: the canonical source for this page is
 "Lydia's CV/CV_Sollis_2026-10.md" in the dissertation repo. Edit there, then
 re-sync. Never paste the "Remaining open items" block onto the live site.
-Restore once files/sollis-cv.pdf exists: [Download as PDF](/files/sollis-cv.pdf)
+files/sollis-cv.pdf is generated from this page; regenerate it when the CV changes.
 {% endcomment %}
 
 University of Hawaiʻi Cancer Center, Department of Epidemiology
